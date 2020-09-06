@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-### Developed by
+## Developed by
 Jaspreet Singh
 
 ### Get in touch
