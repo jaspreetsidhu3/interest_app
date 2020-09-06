@@ -20,5 +20,5 @@ samples, guidance on mobile development, and a full API reference.
 Jaspreet Singh
 
 ### Get in touch
-LinkedIn -https://www.linkedin.com/in/jaspreetsidhu13/
+LinkedIn -https://www.linkedin.com/in/jaspreetsidhu13/ <br/>
 GitHub - https://github.com/jaspreetsidhu3
